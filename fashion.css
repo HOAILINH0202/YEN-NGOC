@@ -151,7 +151,7 @@ a{
     background-repeat: no-repeat;
     background-position: right;
     background-size:cover;
-    background-image: url(/images/test.jpg);
+    background-image: url(test.jpg);
     background-attachment: fixed;
 
 }
@@ -188,7 +188,7 @@ a{
     height: 595px;
     width: calc(50%);
     background-repeat: no-repeat;
-    background-image: url(/images/container_top-rigth.jpg);
+    background-image: url(container_top-rigth.jpg);
     animation-name: container_top-rigth-img;
     animation-duration: 1s;
     position: relative;
@@ -207,7 +207,7 @@ a{
     background-size: cover;
     position: relative;
     animation-iteration-count: unset;
-    background-image: url(/images/container_top-rigth2.jpg);
+    background-image: url(container_top-rigth2.jpg);
 } */
 .container_demo{
     height: 400px;
@@ -448,23 +448,23 @@ a{
 .container_products-slider-img1 .container_products-slider-img1-item:nth-last-child(4){
     margin-left: 10px;
     animation: left-right 0.5s ease-in forwards;
-    background-image: url(/images/1.jpg);
+    background-image: url(1.jpg);
 }
 .container_products-slider-img1 .container_products-slider-img1-item:nth-last-child(3){
     margin-left: 10px;
     animation: bottom-top 0.5s ease-in forwards;
-    background-image: url(/images/2.jpg);
+    background-image: url(2.jpg);
 }
 .container_products-slider-img1 .container_products-slider-img1-item:nth-last-child(2){
     margin-left: 10px;
     animation: top-bottom 0.5s ease-in forwards;
-    background-image: url(/images/3.jpg);
+    background-image: url(3.jpg);
 }
 .container_products-slider-img1 .container_products-slider-img1-item:nth-last-child(1){
     margin-left: 10px;
     animation: right-left 0.4s ease-in forwards;
     margin-right: 10px;
-    background-image: url(/images/4.jpg);
+    background-image: url(4.jpg);
 }
 .button1:focus .container_products-slider-img1 .container_products-slider-img1-item{
     display: block;
@@ -568,23 +568,23 @@ a{
 .container_products-slider-img2 .container_products-slider-img2-item:nth-last-child(4){
     margin-left: 10px;
     animation: left-right 0.5s ease-in forwards;
-    background-image: url(/images/14.jpg);
+    background-image: url(14.jpg);
 }
 .container_products-slider-img2 .container_products-slider-img2-item:nth-last-child(3){
     margin-left: 10px;
     animation: bottom-top 0.5s ease-in forwards;
-    background-image: url(/images/15.jpg);
+    background-image: url(15.jpg);
 }
 .container_products-slider-img2 .container_products-slider-img2-item:nth-last-child(2){
     margin-left: 10px;
     animation: top-bottom 0.5s ease-in forwards;
-    background-image: url(/images/16.jpg);
+    background-image: url(16.jpg);
 }
 .container_products-slider-img2 .container_products-slider-img2-item:nth-last-child(1){
     margin-left: 10px;
     animation: right-left 0.4s ease-in forwards;
     margin-right: 10px;
-    background-image: url(/images/17.jpg);
+    background-image: url(17.jpg);
 }
 .button2:focus .container_products-slider-img2 .container_products-slider-img2-item{
     display: block;
@@ -653,23 +653,23 @@ a{
 .container_products-slider-img3 .container_products-slider-img3-item:nth-last-child(4){
     margin-left: 10px;
     animation: left-right 0.5s ease-in forwards;
-    background-image: url(/images/10.jpg);
+    background-image: url(10.jpg);
 }
 .container_products-slider-img3 .container_products-slider-img3-item:nth-last-child(3){
     margin-left: 10px;
     animation: bottom-top 0.5s ease-in forwards;
-    background-image: url(/images/11.jpg);
+    background-image: url(11.jpg);
 }
 .container_products-slider-img3 .container_products-slider-img3-item:nth-last-child(2){
     margin-left: 10px;
     animation: top-bottom 0.5s ease-in forwards;
-    background-image: url(/images/13.jpg);
+    background-image: url(13.jpg);
 }
 .container_products-slider-img3 .container_products-slider-img3-item:nth-last-child(1){
     margin-left: 10px;
     animation: right-left 0.4s ease-in forwards;
     margin-right: 10px;
-    background-image: url(/images/12.jpg);
+    background-image: url(12.jpg);
 }
 .button3:focus .container_products-slider-img3 .container_products-slider-img3-item{
     display: block;
@@ -736,23 +736,23 @@ a{
 .container_products-slider-img4 .container_products-slider-img4-item:nth-last-child(4){
     margin-left: 10px;
     animation: left-right 0.5s ease-in forwards;
-    background-image: url(/images/6.jpg);
+    background-image: url(6.jpg);
 }
 .container_products-slider-img4 .container_products-slider-img4-item:nth-last-child(3){
     margin-left: 10px;
     animation: bottom-top 0.5s ease-in forwards;
-    background-image: url(/images/7.jpg);
+    background-image: url(7.jpg);
 }
 .container_products-slider-img4 .container_products-slider-img4-item:nth-last-child(2){
     margin-left: 10px;
     animation: top-bottom 0.5s ease-in forwards;
-    background-image: url(/images/8.jpg);
+    background-image: url(8.jpg);
 }
 .container_products-slider-img4 .container_products-slider-img4-item:nth-last-child(1){
     margin-left: 10px;
     animation: right-left 0.4s ease-in forwards;
     margin-right: 10px;
-    background-image: url(/images/9.jpg);
+    background-image: url(9.jpg);
 }
 .button4:focus .container_products-slider-img4 .container_products-slider-img4-item{
     display: block;
@@ -999,7 +999,7 @@ a{
 .footer{
     height: 250px;
     width: 100%;
-    background-image:url(/images/footer.jpg);
+    background-image:url(footer.jpg);
     border-top: 5px solid white;
     background-size: cover;
     
